@@ -2,6 +2,7 @@
 Virtual Assistant I made with help from KTBYTE
 
 Very basic commands only. 
+To run the code, download the app, import the project to eclipse, run the main.java code in the ktbyte.assistant.java
 
 Commands List -------
 Asking the time
